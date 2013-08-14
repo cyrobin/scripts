@@ -1,0 +1,5 @@
++ My_Beloved_Repo
++ ~/path/to/my/important/file/to/backup
++ .my_precious_config_files
+- .*
+- *
