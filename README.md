@@ -1,4 +1,4 @@
 scripts
 =======
 
-Usefull shell scripts
+Usefull shell and python scripts

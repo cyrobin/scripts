@@ -1,3 +1,6 @@
 [submodule "todo.txt-cli"]
 	path = todo.txt-cli
 	url = https://github.com/cyrobin/todo.txt-cli
+[submodule "cheat"]
+	path = cheat
+	url = https://github.com/cyrobin/cheat
