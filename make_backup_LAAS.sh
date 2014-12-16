@@ -12,8 +12,9 @@ EXCLUDE=
 
 # ------------- distant machine information ----------------------------
 REMOTE_USR=crobin
-REMOTE_MACHINE=lardenne.laas.fr
-REMOTE_MACHINE=anna.laas.fr
+REMOTE_MACHINE=ssh.laas.fr
+#REMOTE_MACHINE=lardenne.laas.fr
+#REMOTE_MACHINE=anna.laas.fr
 #REMOTE_MACHINE=ragnarok.laas.fr
 
 
